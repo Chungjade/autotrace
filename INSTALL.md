@@ -1,4 +1,4 @@
-		   Installation guide for Autotrace
+Installation guide for Autotrace
 			     -*- text -*-
 Index of this file:
 
@@ -6,7 +6,7 @@ Index of this file:
 	1. Basic Installation
 	2. ImageMagick related issues
 	3. Pstoedit related issues
-
+	
 0. Install a Binary Release
 ===========================
 
