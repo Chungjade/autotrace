@@ -1,5 +1,3 @@
-Installation guide for Autotrace
-			     -*- text -*-
 Index of this file:
 
 	0. Install a Binary Release
